@@ -14,21 +14,17 @@ if you want to edit the project please follow the below instructions
 
 to run the project on pycharm or any python IDE make sure you have all these imports installed. you can install them via pip install.
 
-1. flask 
-2. nltk
-3. nltk.corpus 
-4. sklearn.feature_extraction.text
-5. numpy as np
-6. sklearn.metrics.pairwise 
-7. random import randint
-8. nltk.stem import WordNetLemmatizer
-9. lxml 
-10. beautifulsoup4
-11. requests
-12. requests_html
-13. selenium
-14. time
-15. unittest
+
+- flask: `pip install flask`
+- nltk: `pip install nltk`
+- scikit-learn: `pip install scikit-learn`
+- numpy: `pip install numpy`
+- lxml: `pip install lxml`
+- beautifulsoup4: `pip install beautifulsoup4`
+- requests: `pip install requests`
+- requests_html: `pip install requests_html`
+- selenium: `pip install selenium`
+
 
 After all these are installed, open the project in pycharm and run the Flask(app.py) configuration. Then it will give you a local url, click it and it will redirect you to the web page. 
 
