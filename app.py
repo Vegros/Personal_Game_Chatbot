@@ -7,6 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from random import randint
 import functions
 from nltk.stem import WordNetLemmatizer
+nltk.download('wordnet') #important
 
 
 stop_words = set(stopwords.words('english'))
