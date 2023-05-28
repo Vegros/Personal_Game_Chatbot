@@ -2,7 +2,7 @@
  
 #Description
 
-This project consists of python {flask} and HTML. The program allows the user to get information about a game of the user choice, it can show a list of games that suits the user requirements and also can compare2 games with each other and give the percentage of how similar they are.
+This project consists of python {flask} and HTML. The program allows the user to get information about a game of the user choice, it can show a list of games that suits the user requirements and also can compare 2 games with each other and give the percentage of how similar they are.
 
 #How to run the project 
 
