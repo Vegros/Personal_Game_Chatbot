@@ -25,6 +25,7 @@ to run the project on pycharm or any python IDE make sure you have all these imp
 - requests_html: `pip install requests_html`
 - selenium: `pip install selenium`
 
+-important: make sure to have  `nltk.download('wordnet')` installed. otherwise it will not work!
 
 After all these are installed, open the project in pycharm and run the Flask(app.py) configuration. Then it will give you a local url, click it and it will redirect you to the web page. 
 
