@@ -30,10 +30,10 @@ def chat():
         compare_mode = False;
         lemmatizer = WordNetLemmatizer()
 
-        with open('SimilarQuestions.txt', 'r', encoding='cp1252') as question_file:
+        with open('SimilarQuestions.txt', 'r', encoding='utf-8') as question_file:
             question = question_file.read().split('\n')
 
-        with open('gameInfo.txt', 'r', encoding='cp1252') as responses_file:
+        with open('gameInfo.txt', 'r', encoding='utf-8') as responses_file:
             responses = responses_file.read().split('\n')
 
         questions = question[:3]
