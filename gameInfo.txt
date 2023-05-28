@@ -1,0 +1,15 @@
+I want to have information
+I want to buy a game
+I want to compare 2 games
+The rating of the game is: 'rating'
+The summary of the game is: 'summary'
+The date released of the game is: 'date'
+The developer of the game is: 'developer'
+The platform of the game is: 'platform'
+The genre of the game is: 'genre'
+https://www.ign.com/games/producer/
+https://www.ign.com/games/platform/
+https://www.ign.com/games/genre/
+https://www.ign.com/games/publisher/
+https://www.ign.com/games/feature/
+https://www.ign.com/games/franchise/

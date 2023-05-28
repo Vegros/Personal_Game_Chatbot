@@ -1,0 +1,15 @@
+I want to have information
+I want to buy a game
+I want to compare two games
+I need to know the rating of the game
+I need to know the summary of the game
+I need to know the date released of the game
+I need to know the developer of the game
+I need to know the platform of the game
+I need to know the genre of the game
+I need to search by developer
+I need to search by platform
+I need to search by genre
+I need to search by publisher
+I need to search by feature
+I need to search by franchise
