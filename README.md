@@ -29,4 +29,6 @@ After all these are installed, open the project in pycharm and run the Flask(app
 
 This project was made as a School assignment and the author is Mattias Tonna from class 4.2A at MCAST
 
+DEMO 
+https://youtu.be/tatm5XOEVWs
 
